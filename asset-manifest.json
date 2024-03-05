@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Hospital/static/css/main.189abc95.css",
+    "main.js": "/Hospital/static/js/main.3dedd38c.js",
+    "static/media/slide.jpg": "/Hospital/static/media/slide.a55ff2e31a1639d0230f.jpg",
+    "static/media/slide3.jpg": "/Hospital/static/media/slide3.e07fd174aa4e3bcdb548.jpg",
+    "static/media/slide2.jpg": "/Hospital/static/media/slide2.4a78396c8b7ac2cf90f1.jpg",
+    "static/media/card2.jpg": "/Hospital/static/media/card2.5574a06da8f5d198c2ef.jpg",
+    "static/media/card1.jpg": "/Hospital/static/media/card1.6f729e7796526b1062d9.jpg",
+    "static/media/logo1.jpg": "/Hospital/static/media/logo1.c314f8d00bcdaf05a128.jpg",
+    "static/media/card4.jpg": "/Hospital/static/media/card4.9737f2f461454ca0a16d.jpg",
+    "static/media/card3.jpg": "/Hospital/static/media/card3.4283eef37a5e3e7ac660.jpg",
+    "index.html": "/Hospital/index.html",
+    "main.189abc95.css.map": "/Hospital/static/css/main.189abc95.css.map",
+    "main.3dedd38c.js.map": "/Hospital/static/js/main.3dedd38c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189abc95.css",
+    "static/js/main.3dedd38c.js"
+  ]
+}
